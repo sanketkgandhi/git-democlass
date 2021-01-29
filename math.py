@@ -1,5 +1,5 @@
 def add(a,b):
-	return a+b
+	pass 
 def sub(a,b):
         if a>b:
                 return a-b
